@@ -3,8 +3,8 @@ using namespace std;
   
 class Complex {  
 public:  
-    int real; // To store real part of complex number  
-    int imaginary; // To store imaginary part of complex number  
+    int real; 
+    int imaginary;  
   
     Complex()  
     {  
